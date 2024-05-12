@@ -6,11 +6,7 @@
 .bars {
   width: 21px;
   height: 21px;
-  top: 41px;
-  left: 16px;
   padding: 3px 2px 4px 2px;
-  gap: 0px;
-  opacity: 0px;
 }
 .nav {
   display: flex;
@@ -115,11 +111,7 @@
     line-height: 28px;
     font-size: 10px;
     display: flex;
-    height: Hug (24px) px;
-    top: 140px;
-    left: 402px;
     gap: 64px;
-    opacity: 0px;
     align-self: center;
     margin-top: 0px;
     padding-top: 0px;
