@@ -1,10 +1,10 @@
 .list-item-container {
-  width: 168px;
+  width: 165px;
   margin: 5px;
 }
 
 .product-img {
-  width: 168px;
+  width: 165px;
   height: 224px;
 }
 
@@ -46,6 +46,15 @@
   margin-bottom: 5px;
   margin-top: 5px;
   margin-right: 2px;
+}
+
+@media (max-width: 374px) {
+  .list-item-container {
+    width: 160px;
+  }
+  .product-img {
+    width: 160px;
+  }
 }
 
 @media (min-width: 768px) {
